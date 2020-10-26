@@ -1,4 +1,4 @@
-# Greeting!
+# Greetings!
 
 I'm new to GitHub and trying to learn the basics.
 
